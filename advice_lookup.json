@@ -1,0 +1,62 @@
+{
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "kannada": "ಇದು ಸೆರ್ಕೊಸ್ಪೊರಾ ಎಲೆ ಚುಕ್ಕೆ ರೋಗ. ಸೋಂಕಿತ ಎಲೆಗಳನ್ನು ತಕ್ಷಣ ತೆಗೆದುಹಾಕಿ. Dithane M-45 ಔಷಧವನ್ನು 10 ಲೀಟರ್ ನೀರಿಗೆ 25 ಗ್ರಾಂ ಬೆರೆಸಿ, 7 ದಿನಕ್ಕೊಮ್ಮೆ 3 ಬಾರಿ ಸಿಂಪಡಿಸಿ. ಎಲೆಗಳ ಮೇಲೆ ನೇರವಾಗಿ ನೀರು ಹಾಕಬೇಡಿ. 3 ವಾರಗಳಲ್ಲಿ ಗುಣವಾಗದಿದ್ದರೆ ಹತ್ತಿರದ KVK ಅಧಿಕಾರಿಯನ್ನು ಸಂಪರ್ಕಿಸಿ.",
+    "english": "This is Cercospora Leaf Spot. Remove infected leaves immediately. Spray Dithane M-45 — 25 grams per 10 litres of water, once every 7 days for 3 sprays. Do not water leaves directly. If not improving in 3 weeks, consult your nearest KVK."
+  },
+  "Corn_(maize)___Common_rust_": {
+    "kannada": "ಇದು ಮೆಕ್ಕೆಜೋಳದ ತುಕ್ಕು ರೋಗ. ಈ ರೋಗ ತಂಪು ಮತ್ತು ತೇವ ವಾತಾವರಣದಲ್ಲಿ ವೇಗವಾಗಿ ಹರಡುತ್ತದೆ. ತೀವ್ರವಾಗಿ ಸೋಂಕಿತ ಎಲೆಗಳನ್ನು ತೆಗೆದುಹಾಕಿ. Dithane M-45 ಔಷಧವನ್ನು 10 ಲೀಟರ್ ನೀರಿಗೆ 25 ಗ್ರಾಂ ಬೆರೆಸಿ, 7 ದಿನಕ್ಕೊಮ್ಮೆ 3 ಬಾರಿ ಸಿಂಪಡಿಸಿ. ಮುಂದಿನ ಬೆಳೆಗೆ ರೋಗ ನಿರೋಧಕ ತಳಿ ಬಳಸಿ. ರೋಗ ವೇಗವಾಗಿ ಹರಡುತ್ತಿದ್ದರೆ ತಕ್ಷಣ KVK ಸಂಪರ್ಕಿಸಿ.",
+    "english": "This is Common Rust. Spreads fast in cool wet weather — act quickly. Remove heavily infected leaves. Spray Dithane M-45 — 25 grams per 10 litres of water, once every 7 days for 3 sprays. Plant resistant varieties next season. If spreading rapidly, consult KVK immediately."
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "kannada": "ಇದು ಉತ್ತರ ಎಲೆ ಸುಡು ರೋಗ. ಸೋಂಕಿತ ಎಲೆಗಳನ್ನು ತೆಗೆದು ಸುಟ್ಟುಹಾಕಿ, ಗೊಬ್ಬರದ ಗುಂಡಿಗೆ ಹಾಕಬೇಡಿ. Dithane M-45 ಔಷಧವನ್ನು 10 ಲೀಟರ್ ನೀರಿಗೆ 25 ಗ್ರಾಂ ಬೆರೆಸಿ, 10 ದಿನಕ್ಕೊಮ್ಮೆ 3 ಬಾರಿ ಸಿಂಪಡಿಸಿ. ಮುಂದಿನ ವರ್ಷ ಅದೇ ಜಮೀನಿನಲ್ಲಿ ಮೆಕ್ಕೆಜೋಳ ಬೆಳೆಯಬೇಡಿ. ಗುಣವಾಗದಿದ್ದರೆ KVK ಸಂಪರ್ಕಿಸಿ.",
+    "english": "This is Northern Leaf Blight. Remove and burn infected leaves, do not compost them. Spray Dithane M-45 — 25 grams per 10 litres of water, every 10 days for 3 sprays. Do not plant maize in the same field next season. If not improving, consult your nearest KVK."
+  },
+  "Corn_(maize)___healthy": {
+    "kannada": "ನಿಮ್ಮ ಮೆಕ್ಕೆಜೋಳ ಬೆಳೆ ಆರೋಗ್ಯಕರವಾಗಿದೆ! ಪ್ರಸ್ತುತ ಆರೈಕೆ ಮುಂದುವರಿಸಿ. ಪ್ರತಿ ವಾರ ಎಲೆಗಳ ಮೇಲೆ ಯಾವುದೇ ಚುಕ್ಕೆ ಅಥವಾ ಬಣ್ಣ ಬದಲಾವಣೆ ಇದೆಯೇ ಎಂದು ಪರಿಶೀಲಿಸಿ.",
+    "english": "Your maize crop looks healthy! Continue current care. Check your crop every week for early signs of spots or discolouration on leaves."
+  },
+  "Tomato___Bacterial_spot": {
+    "kannada": "ಇದು ಬ್ಯಾಕ್ಟೀರಿಯಾ ಚುಕ್ಕೆ ರೋಗ. ಇದು ಶಿಲೀಂಧ್ರವಲ್ಲ, ಬ್ಯಾಕ್ಟೀರಿಯಾದಿಂದ ಬರುತ್ತದೆ — ಶಿಲೀಂಧ್ರನಾಶಕ ಕೆಲಸ ಮಾಡುವುದಿಲ್ಲ. ಸೋಂಕಿತ ಎಲೆಗಳನ್ನು ತಕ್ಷಣ ತೆಗೆದುಹಾಕಿ. Blitox ಔಷಧವನ್ನು 10 ಲೀಟರ್ ನೀರಿಗೆ 30 ಗ್ರಾಂ ಬೆರೆಸಿ, 7 ದಿನಕ್ಕೊಮ್ಮೆ 3 ಬಾರಿ ಸಿಂಪಡಿಸಿ. ನೀರು ಹಾಕುವಾಗ ಎಲೆ ಒದ್ದೆಯಾಗದಂತೆ ನೋಡಿಕೊಳ್ಳಿ. ರೋಗ ವೇಗವಾಗಿ ಹರಡುತ್ತಿದ್ದರೆ KVK ಸಂಪರ್ಕಿಸಿ.",
+    "english": "This is Bacterial Spot. Caused by bacteria, not fungus — fungicide will not work. Remove infected leaves immediately. Spray Blitox — 30 grams per 10 litres of water, every 7 days for 3 sprays. Avoid wetting leaves while watering. Consult KVK if spreading fast."
+  },
+  "Tomato___Early_blight": {
+    "kannada": "ಇದು ಆರಂಭಿಕ ಸುಡು ರೋಗ. ಮೊದಲು ಕೆಳಗಿನ ಸೋಂಕಿತ ಎಲೆಗಳನ್ನು ತೆಗೆದುಹಾಕಿ. Dithane M-45 ಔಷಧವನ್ನು 10 ಲೀಟರ್ ನೀರಿಗೆ 25 ಗ್ರಾಂ ಬೆರೆಸಿ, 7 ದಿನಕ್ಕೊಮ್ಮೆ 3 ಬಾರಿ ಸಿಂಪಡಿಸಿ. ಗಿಡದ ಬುಡಕ್ಕೆ ಮಾತ್ರ ನೀರು ಹಾಕಿ, ಎಲೆಗಳಿಗೆ ಅಲ್ಲ. 3 ಬಾರಿ ಸಿಂಪಡಿಸಿದ ನಂತರವೂ ಗುಣವಾಗದಿದ್ದರೆ ಹತ್ತಿರದ KVK ಸಂಪರ್ಕಿಸಿ.",
+    "english": "This is Early Blight. Remove lower infected leaves first. Spray Dithane M-45 — 25 grams per 10 litres of water, every 7 days for 3 sprays. Water only at the base of the plant, never on leaves. If not improving after 3 sprays, consult your nearest KVK."
+  },
+  "Tomato___Late_blight": {
+    "kannada": "ಇದು ತಡ ಸುಡು ರೋಗ. ತುಂಬಾ ಅಪಾಯಕಾರಿ — ತಕ್ಷಣ ಕ್ರಮ ತೆಗೆದುಕೊಳ್ಳಿ. ಸೋಂಕಿತ ಭಾಗಗಳನ್ನು ತೆಗೆದು ಇಂದೇ ಸುಟ್ಟುಹಾಕಿ. Blitox ಔಷಧವನ್ನು 10 ಲೀಟರ್ ನೀರಿಗೆ 30 ಗ್ರಾಂ ಬೆರೆಸಿ, 5 ದಿನಕ್ಕೊಮ್ಮೆ 3 ಬಾರಿ ಸಿಂಪಡಿಸಿ. ಇಡೀ ಗಿಡ ಸೋಂಕಿಗೆ ಒಳಗಾಗಿದ್ದರೆ ಪಕ್ಕದ ಗಿಡಗಳನ್ನು ರಕ್ಷಿಸಲು ಆ ಗಿಡವನ್ನು ಸಂಪೂರ್ಣ ತೆಗೆದುಹಾಕಿ. ತಕ್ಷಣ KVK ಸಂಪರ್ಕಿಸಿ.",
+    "english": "This is Late Blight. Serious disease — spreads very fast, act immediately. Remove and burn all infected parts today. Spray Blitox — 30 grams per 10 litres of water, every 5 days for 3 sprays. If whole plant infected, remove entire plant to protect neighbours. Consult KVK urgently."
+  },
+  "Tomato___Leaf_Mold": {
+    "kannada": "ಇದು ಎಲೆ ಅಚ್ಚು ರೋಗ. ಹೆಚ್ಚಿನ ತೇವಾಂಶದಿಂದ ಬರುತ್ತದೆ. ಸೋಂಕಿತ ಎಲೆಗಳನ್ನು ತೆಗೆದುಹಾಕಿ. ಗಿಡಗಳ ನಡುವೆ ಅಂತರ ಹೆಚ್ಚಿಸಿ ಗಾಳಿ ಆಡಲು ಅನುವು ಮಾಡಿ. Bavistin ಔಷಧವನ್ನು 10 ಲೀಟರ್ ನೀರಿಗೆ 10 ಗ್ರಾಂ ಬೆರೆಸಿ, 10 ದಿನಕ್ಕೊಮ್ಮೆ 2 ಬಾರಿ ಸಿಂಪಡಿಸಿ. ನೀರು ಹಾಕುವಾಗ ಎಲೆ ಒದ್ದೆಯಾಗದಂತೆ ನೋಡಿಕೊಳ್ಳಿ. ಗುಣವಾಗದಿದ್ದರೆ KVK ಸಂಪರ್ಕಿಸಿ.",
+    "english": "This is Leaf Mold. Caused by high humidity. Remove infected leaves. Improve airflow — increase spacing between plants. Spray Bavistin — 10 grams per 10 litres of water, every 10 days for 2 sprays. Avoid wetting leaves while watering. Consult KVK if not improving."
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "kannada": "ಇದು ಸೆಪ್ಟೋರಿಯಾ ಎಲೆ ಚುಕ್ಕೆ ರೋಗ. ಗಿಡದ ಕೆಳಗಿನಿಂದ ಮೇಲಕ್ಕೆ ಸೋಂಕಿತ ಎಲೆಗಳನ್ನು ತೆಗೆದುಹಾಕಿ. Dithane M-45 ಔಷಧವನ್ನು 10 ಲೀಟರ್ ನೀರಿಗೆ 25 ಗ್ರಾಂ ಬೆರೆಸಿ, 7 ದಿನಕ್ಕೊಮ್ಮೆ 3 ಬಾರಿ ಸಿಂಪಡಿಸಿ. ನೀರು ಸಿಂಪಡಿಸುವಾಗ ಎಲೆಗಳ ಮೇಲೆ ಬೀಳದಂತೆ ನೋಡಿಕೊಳ್ಳಿ. ಮುಂದಿನ ವರ್ಷ ಅದೇ ಜಮೀನಿನಲ್ಲಿ ಟೊಮ್ಯಾಟೊ ಬೆಳೆಯಬೇಡಿ.",
+    "english": "This is Septoria Leaf Spot. Remove infected leaves from bottom up. Spray Dithane M-45 — 25 grams per 10 litres of water, every 7 days for 3 sprays. Avoid splashing water on leaves. Do not plant tomato in the same field next season."
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "kannada": "ಇದು ಜೇಡ ಹುಳು ಹಾನಿ. ಇದು ಶಿಲೀಂಧ್ರವಲ್ಲ, ಸಣ್ಣ ಕೀಟಗಳು — ಶಿಲೀಂಧ್ರನಾಶಕ ಕೆಲಸ ಮಾಡುವುದಿಲ್ಲ. 1 ಲೀಟರ್ ನೀರಿಗೆ 5ml ಬೇವಿನ ಎಣ್ಣೆ ಮತ್ತು 1ml ಸಾಬೂನು ಬೆರೆಸಿ, ಎಲೆಗಳ ಕೆಳಭಾಗದಲ್ಲಿ ಚೆನ್ನಾಗಿ ಸಿಂಪಡಿಸಿ, 5 ದಿನಕ್ಕೊಮ್ಮೆ 3 ಬಾರಿ ಮಾಡಿ. ಪ್ರಯೋಜನಕಾರಿ ಕೀಟಗಳನ್ನು ಕೊಲ್ಲುವ ಕಠಿಣ ಕೀಟನಾಶಕ ಬಳಸಬೇಡಿ. ತೀವ್ರವಾಗಿದ್ದರೆ KVK ಸಂಪರ್ಕಿಸಿ.",
+    "english": "This is Spider Mite damage. These are tiny insects, not fungus — fungicide will not work. Mix 5ml neem oil + 1ml liquid soap per 1 litre of water, spray on leaf undersides, every 5 days for 3 sprays. Do not use strong pesticides. Consult KVK if infestation is severe."
+  },
+  "Tomato___Target_Spot": {
+    "kannada": "ಇದು ಗುರಿ ಚುಕ್ಕೆ ರೋಗ. ಸೋಂಕಿತ ಎಲೆಗಳನ್ನು ತಕ್ಷಣ ತೆಗೆದುಹಾಕಿ. Dithane M-45 ಔಷಧವನ್ನು 10 ಲೀಟರ್ ನೀರಿಗೆ 25 ಗ್ರಾಂ ಬೆರೆಸಿ, 7 ದಿನಕ್ಕೊಮ್ಮೆ 3 ಬಾರಿ ಸಿಂಪಡಿಸಿ. ಗಿಡಗಳ ನಡುವೆ ಅಂತರ ಹೆಚ್ಚಿಸಿ ಗಾಳಿ ಆಡಲು ಅನುವು ಮಾಡಿ. ಗಿಡದ ಬುಡಕ್ಕೆ ಮಾತ್ರ ನೀರು ಹಾಕಿ. 3 ವಾರಗಳಲ್ಲಿ ಗುಣವಾಗದಿದ್ದರೆ KVK ಸಂಪರ್ಕಿಸಿ.",
+    "english": "This is Target Spot. Remove infected leaves immediately. Spray Dithane M-45 — 25 grams per 10 litres of water, every 7 days for 3 sprays. Increase spacing between plants for airflow. Water only at base. Consult KVK if not improving in 3 weeks."
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "kannada": "ಇದು ಟೊಮ್ಯಾಟೊ ಮೊಸೇಕ್ ವೈರಸ್. ಇದಕ್ಕೆ ಯಾವುದೇ ರಾಸಾಯನಿಕ ಚಿಕಿತ್ಸೆ ಇಲ್ಲ. ಸೋಂಕಿತ ಗಿಡಗಳನ್ನು ತಕ್ಷಣ ತೆಗೆದು ಸುಟ್ಟುಹಾಕಿ. ಸೋಂಕಿತ ಗಿಡ ಮುಟ್ಟಿದ ನಂತರ ಕೈ ಮತ್ತು ಉಪಕರಣಗಳನ್ನು ಸಾಬೂನಿನಿಂದ ತೊಳೆಯಿರಿ. ರೋಗ ಹರಡುವ ಜಿಗಿ ಹುಳಗಳನ್ನು ನಿಯಂತ್ರಿಸಲು ಬೇವಿನ ಎಣ್ಣೆ ಸಿಂಪಡಿಸಿ. ಮುಂದಿನ ವರ್ಷ ಅದೇ ಜಮೀನಿನಲ್ಲಿ ಟೊಮ್ಯಾಟೊ ಬೆಳೆಯಬೇಡಿ. ರೋಗ ನಿರೋಧಕ ತಳಿಗಾಗಿ KVK ಸಂಪರ್ಕಿಸಿ.",
+    "english": "This is Tomato Mosaic Virus. No chemical cure. Remove and burn infected plants immediately. Wash hands and tools with soap after touching infected plants. Spray neem oil to control aphids. Do not plant tomato in same field next season. Consult KVK for resistant seed varieties."
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "kannada": "ಇದು ಟೊಮ್ಯಾಟೊ ಹಳದಿ ಎಲೆ ಸುರುಳಿ ವೈರಸ್. ಬೆಳ್ಳಿ ನೊಣಗಳಿಂದ ಹರಡುತ್ತದೆ — ತಕ್ಷಣ ನೊಣಗಳನ್ನು ನಿಯಂತ್ರಿಸಿ. ಸೋಂಕಿತ ಗಿಡಗಳನ್ನು ತೆಗೆದು ಸುಟ್ಟುಹಾಕಿ. 1 ಲೀಟರ್ ನೀರಿಗೆ 5ml ಬೇವಿನ ಎಣ್ಣೆ ಬೆರೆಸಿ, 5 ದಿನಕ್ಕೊಮ್ಮೆ ಸಿಂಪಡಿಸಿ. ಗಿಡಗಳ ಹತ್ತಿರ ಹಳದಿ ಅಂಟು ಬಲೆ ಇಡಿ. ಮುಂದಿನ ಬೆಳೆಗೆ ರೋಗ ನಿರೋಧಕ ತಳಿಗಾಗಿ KVK ಸಂಪರ್ಕಿಸಿ.",
+    "english": "This is Tomato Yellow Leaf Curl Virus. Spread by whiteflies — control whiteflies urgently. Remove and burn infected plants. Spray neem oil — 5ml per 1 litre of water, every 5 days. Place yellow sticky traps near plants. Consult KVK for locally available resistant seeds."
+  },
+  "Tomato___healthy": {
+    "kannada": "ನಿಮ್ಮ ಟೊಮ್ಯಾಟೊ ಬೆಳೆ ಆರೋಗ್ಯಕರವಾಗಿದೆ! ಪ್ರಸ್ತುತ ಆರೈಕೆ ಮುಂದುವರಿಸಿ. ಪ್ರತಿ ವಾರ ಎಲೆಗಳ ಮೇಲೆ ಯಾವುದೇ ಚುಕ್ಕೆ, ಸುರುಳಿ ಅಥವಾ ಬಣ್ಣ ಬದಲಾವಣೆ ಇದೆಯೇ ಎಂದು ಪರಿಶೀಲಿಸಿ.",
+    "english": "Your tomato crop looks healthy! Continue current care. Check your crop every week for early signs of spots, curling, or discolouration on leaves."
+  },
+  "_confidence_low": {
+    "kannada": "ಈ ಎಲೆಯನ್ನು ಸರಿಯಾಗಿ ಗುರುತಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ದಯವಿಟ್ಟು ಫೋಟೋ ಮತ್ತೊಮ್ಮೆ ತೆಗೆಯಿರಿ ಅಥವಾ ಹತ್ತಿರದ KVK ಅಧಿಕಾರಿಯನ್ನು ಸಂಪರ್ಕಿಸಿ.",
+    "english": "Could not identify this leaf with enough confidence. Please take the photo again in good light, or consult your nearest KVK agricultural officer."
+  }
+}

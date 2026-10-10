@@ -1,0 +1,5 @@
+[browser]
+gatherUsageStats = false   # no telemetry, keeps the app fully offline
+
+[server]
+headless = true
